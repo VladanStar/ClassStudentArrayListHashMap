@@ -1,0 +1,2 @@
+# ClassStudentArrayListHashMap
+Cilj ovog primera je pravljenje primera korišćenja ArrayListe u kombinaciji sa HashSetovima. Napraviti klasu Student kao u prethodnom zadatku a potom kreirati ArrayList-u studenta i ubaciti dva studenta u nju. Nakon ovoga kreirati Mapu koja će kao ključ imati Integer a kao vrednost String. U String treba ubaciti sve položene ispite ovih studenata dok u key njihov indeks. Petljom prođite sve studente u ArrayListi i ispišite sve njihove položene ispite.
